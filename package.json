@@ -1,0 +1,6 @@
+{
+  "name": "ppi-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para PPI API",
+  "private": true
+}

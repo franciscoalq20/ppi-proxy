@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/api/ppi/(.*)", "destination": "/api/ppi" }]
+}
